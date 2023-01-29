@@ -2,7 +2,7 @@
 
 <h2>Descripción: 📄</h2>
 🧮 Asignatura de 1º de Matemáticas en la Universidad Autónoma de Madrid. Uso de SageMath (sobre Python) para resolver problemas de naturaleza matemática.
-
+<br><br>
 🔬 Más información de la asignatura: <a href="GuiaDocente.pdf">Guía Docente Laboratorio</a>
 <br><br>
 
