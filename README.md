@@ -1,7 +1,10 @@
 <h1 align="center">Laboratorio 🖥️</h1>
 
 <h2>Descripción: 📄</h2>
-🧮 Asignatura de 1º de Matemáticas en la Universidad Autónoma de Madrid. Uso de SageMath (sobre Python) para resolver problemas de naturaleza matemática.<br><br>
+🧮 Asignatura de 1º de Matemáticas en la Universidad Autónoma de Madrid. Uso de SageMath (sobre Python) para resolver problemas de naturaleza matemática.
+
+🔬 Más información de la asignatura: <a href="GuiaDocente.pdf">Guía Docente Laboratorio</a>
+<br><br>
 
 SAGE (iniciales de Software for Algebra and Geometry Experimentation – Software para Experimentación de Algebra y Geometría) es un software de código abierto multipropósito para matemáticas computacionales. Está diseñado para ser parte de un sistema de matemáticas orientado a objetos que permite al usuario trabajar en varias áreas de las matemáticas usando una interfaz común. Mientras que la mayor parte de los entornos de cálculo matemático son entidades independientes, SAGE provee algunos algoritmos por si mismo y otros los toma de otros entornos de cálculo matemático. Esta estrategia le permite a SAGE proveer el poder de múltiples entornos de cálculo matemáticos dentro de una arquitectura capaz de evolucionar para satisfacer futuras necesidades. 
 
