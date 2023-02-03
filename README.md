@@ -18,22 +18,34 @@ SAGE esta escrito en el poderoso y muy popular lenguaje de programación Python 
   <h3 align="center">Bloque 1: Primeros pasos en SageMath</h3>
   
 
-  - PRIMERPARCIAL: Encontrarás todo el contenido de este bloque, impartido en las clases previas al primer parcial.
+  - Sesión1: La interfaz Jupyter Lab. SageMath como calculadora avanzada.
+  - Sesión2: SageMath como calculadora avanzada II.
+  - Sesión3: Listas y control de flujo.
+  - Sesión4: Control de flujo II.
+  - Sesión5: Control de flujo III.
+  - Sesión6: Arquímedes y el cálculo de pi.
+  - Algunas funciones de Sage
+  - Primer parcial.
 
 
   <h3 align="center">Bloque 2: Algoritmos Aritméticos</h3>
   
-  - SEGUNDOPARCIAL: Enocntrarás todo el contenido de este bloque, impartido en las clases intermedias al primer y al segundo parcial.
+  - Sesión7: Sistemas de numeración.
+  - Sesión8: Algoritmo de Euclides.
+  - Sesión9: Fracciones continuas.
+  - Sesión10: Fracciones continuas periódicas y ecuaciones de Pell.
+  - Sesión11: El sistema RSA.
+  - Segundo parcial.
   
 
   <h3 align="center">Bloque 3: Dinámica de poblaciones y modelos aleatorios</h3>
   
-  - TERCERPARCIAL: Enocntrarás todo el contenido de este bloque, impartido en las clases intermedias al segundo y al tercer parcial.
+  - Sesión12: Dinámica de poblaciones I (Modelo de Leslie).
+  - Sesión13: Dinámica de poblaciones II (Modelo de Markov).
  
 
   <h3 align="center">Bloque 4: Criptografía</h3>
   
-  - CUARTOPARCIAL: Enocntrarás todo el contenido de este bloque, impartido en las clases intermedias al tercer y al cuarto parcial.
   
 <h2 align="center">ADICIONAL: ℹ️</h2>
 - ✏️ EXÁMENES: Encontrarás tanto las preguntas como las respuestas de los exámenes parciales afrontados durante el curso.<br><br>
