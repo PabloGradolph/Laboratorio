@@ -12,7 +12,7 @@ SAGE (iniciales de Software for Algebra and Geometry Experimentation – Softwar
  <br><br>
 SAGE esta escrito en el poderoso y muy popular lenguaje de programación Python y el lenguaje de programación orientado a las matemáticas que SAGE hace disponible a los usuarios es una extensión de Python. Esto significa que los usuarios expertos en SAGE deben ser también expertos programadores en Python. Algo del conocimiento del lenguaje de programación Python es tan decisivo para utilizar con éxito SAGE que el nivel de conocimiento de Python de un usuario puede ser utilizado para ayudar a determinar su nivel o habilidad en SAGE.
 
-💼 Encuentra la documentación en: https://doc.sagemath.org/
+💼 Encuentra la documentación en: https://doc.sagemath.org/ o en https://doc.sagemath.org/html/es/tutorial/tour_linalg.html
 
 <h2>Contenidos: 🧑🏻‍🏫</h2>
   <h3 align="center">Bloque 1: Primeros pasos en SageMath</h3>
