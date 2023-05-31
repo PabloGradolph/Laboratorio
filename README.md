@@ -42,10 +42,20 @@ SAGE esta escrito en el poderoso y muy popular lenguaje de programación Python 
   
   - Sesión12: Dinámica de poblaciones I (Modelo de Leslie).
   - Sesión13: Dinámica de poblaciones II (Modelo de Markov).
+  - Sesión14: Probabilidad y simulación.
+  - Sesión15: Fenómenos aleatorios continuos.
+  - Sesión16: Cálculo de áreas por Montecarlo.
+  - Sesión17: Procesos de Markov.
+  - Sesión18: Cadenas de Markov finitas en tiempo discreto.
  
 
   <h3 align="center">Bloque 4: Criptografía</h3>
   
+  - Sesión19: Biyecciones.
+  - Sesión20: Sistemas de sustitución simple.
+  - Sesión21: Cifrado de Vigenère.
+  - Sesión22: Método de Kasiski.
+  - Sesión23: Preparación para el parcial 4.
   
 <h2 align="center">ADICIONAL: ℹ️</h2>
 - ✏️ EXÁMENES: Encontrarás tanto las preguntas como las respuestas de los exámenes parciales afrontados durante el curso.<br><br>
