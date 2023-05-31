@@ -47,6 +47,7 @@ SAGE esta escrito en el poderoso y muy popular lenguaje de programación Python 
   - Sesión16: Cálculo de áreas por Montecarlo.
   - Sesión17: Procesos de Markov.
   - Sesión18: Cadenas de Markov finitas en tiempo discreto.
+  - Tercer parcial.
  
 
   <h3 align="center">Bloque 4: Criptografía</h3>
@@ -56,6 +57,7 @@ SAGE esta escrito en el poderoso y muy popular lenguaje de programación Python 
   - Sesión21: Cifrado de Vigenère.
   - Sesión22: Método de Kasiski.
   - Sesión23: Preparación para el parcial 4.
+  - Cuarto parcial.
   
 <h2 align="center">ADICIONAL: ℹ️</h2>
 - ✏️ EXÁMENES: Encontrarás tanto las preguntas como las respuestas de los exámenes parciales afrontados durante el curso.<br><br>
